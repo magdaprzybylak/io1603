@@ -5,6 +5,6 @@ def dodawanie():
 
 def get_info():
 		return "TO jest program kalkulator"
-print(get_info())		
+print(get_info()		
 dodawanie()	
-input())
+input()
